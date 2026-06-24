@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 public class TestNG1 {
 	
 	//testn
+	//testng2
 	@Test(groups="Reg", retryAnalyzer=RetryClass.class)
 	public void test1()
 	{
