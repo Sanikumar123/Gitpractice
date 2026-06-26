@@ -12,6 +12,7 @@ import org.testng.annotations.DataProvider;
 
 public class ExcelRead {
 	//data2
+	//excel
 	
 	@DataProvider(name = "ExcelData")
 	public Object[][] getExcelData() throws IOException {
