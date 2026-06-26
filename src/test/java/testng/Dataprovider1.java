@@ -16,7 +16,7 @@ public class Dataprovider1 {
 //data1
 	//data2
 	//data3
-
+//master
 
 
 	@Test(dataProvider = "Data", enabled=false, dataProviderClass=ExcelRead.class)
