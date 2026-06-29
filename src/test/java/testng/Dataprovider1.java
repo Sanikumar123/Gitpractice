@@ -13,13 +13,7 @@ import org.testng.annotations.Test;
 
 public class Dataprovider1 {
 
-//data1
-	//data2
-	//data3
-	//feature
 
-//master
-	//master
 
 
 	@Test(dataProvider = "Data", enabled=false, dataProviderClass=ExcelRead.class)
